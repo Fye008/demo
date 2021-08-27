@@ -8,4 +8,8 @@ package com.fang.demo.master;
  * @Version 1.0
  */
 public class MyTest01 {
+
+    public static void main(String[] args) {
+
+    }
 }
